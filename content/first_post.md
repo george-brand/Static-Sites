@@ -15,4 +15,8 @@ In Markdown format, use one * to display *italics text* and two ** to display **
 
 ###This is a slightly smaller heading in Markdown.
 
+
+### Add an image here.
+![Winter Snow]({static}/images/winter-snow.png)
+
 Done with first post for now.
